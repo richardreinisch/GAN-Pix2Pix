@@ -1,0 +1,8 @@
+opencv-python~=4.11.0.86
+numpy~=2.1.2
+torch~=2.6.0+cu126
+matplotlib~=3.10.0
+torchvision~=0.21.0+cu126
+scikit-image~=0.25.1
+torchsummary~=1.5.1
+pillow~=11.0.0
